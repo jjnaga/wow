@@ -1,2 +1,0 @@
-# wow
-Created with CodeSandbox
